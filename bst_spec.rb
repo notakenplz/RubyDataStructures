@@ -7,5 +7,6 @@ describe "Binary Search Tree" do
   
     #To change this template use File | Settings | File Templates.
     true.should == false
+    
   end
 end
