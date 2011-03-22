@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/RubyDataStructures.iml" filepath="$PROJECT_DIR$/.idea/RubyDataStructures.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/untitled.iml" filepath="$PROJECT_DIR$/.idea/untitled.iml" />
+>>>>>>> 545c24bba91796f84c96fd7d18894999af97ce22
     </modules>
   </component>
 </project>

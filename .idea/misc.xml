@@ -3,6 +3,10 @@
   <component name="DependencyValidationManager">
     <option name="SKIP_IMPORT_STATEMENTS" value="false" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Ruby SDK 1.9.2-p0" project-jdk-type="RUBY_SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Ruby SDK 1.9.2-p0 [rails3]" project-jdk-type="RUBY_SDK" />
+>>>>>>> 545c24bba91796f84c96fd7d18894999af97ce22
 </project>
 
